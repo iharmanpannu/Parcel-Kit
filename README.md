@@ -1,6 +1,6 @@
 # Parcel Starter Kit
 * [Live Demo](https://parcelkit.surge.sh)
-<br>
+
 
 ### First install Parcel using Yarn or npm:
 
