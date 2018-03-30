@@ -1,0 +1,16 @@
+{
+  "name": "parcel-starter-kit",
+  "version": "1.0.0",
+  "description": "Parcel starter kit for simple web project using Parcel to bundle HTML, Sass, Javascript.",
+  "main": "index.js",
+  "author": "Harman Pannu",
+  "license": "MIT",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "node-sass": "^4.8.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0"
+  }
+}
